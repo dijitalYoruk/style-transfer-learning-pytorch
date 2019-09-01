@@ -7,10 +7,10 @@ of the style images are taken. Then, the loss functions for style and content im
 variation loss is obtained and by backward and forward propagation, total variation loss is minimised. After the miniimisation process,
 the visual obtained images are the followings:
 
-![](images/you-picture.png)
+![](readMe/img1.png)
 
-![](images/you-picture.png)
+![](readMe/img2.png)
 
-![](images/you-picture.png)
+![](readMe/img3.png)
 
-![](images/you-picture.png)
+![](readMe/img4.png)
